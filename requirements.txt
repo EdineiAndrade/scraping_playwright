@@ -1,0 +1,6 @@
+playwright.sync_api
+pandas
+openpyxl
+termcolor
+requests
+uuid
